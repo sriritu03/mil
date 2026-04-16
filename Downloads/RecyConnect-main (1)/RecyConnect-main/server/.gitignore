@@ -1,8 +1,8 @@
 node_modules/
+client/node_modules/
+server/node_modules/
+
 .env
 *.log
 *.zip
 *.exe
-*.pdf
-*.pptx
-*.docx
